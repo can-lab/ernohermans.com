@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://cognitiveaffectiveneurosciencelab.nl/"
+redirect_to: "cognitiveaffectiveneurosciencelab.nl"
 ---
